@@ -9,12 +9,12 @@ public class ListSize {
 
         ArrayList<String> list = new ArrayList<>();
         while (true) {
-            String input = scanner.nextLine();
-            if (input.equals("")) {
+            String in = scanner.nextLine();
+            if (in.equals("")) {
                 break;
             }
 
-            list.add(input);
+            list.add(in);
         }
 System.out.println("In total: " + list.size());
     }
