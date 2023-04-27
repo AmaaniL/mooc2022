@@ -1,1 +1,3 @@
-# mooc2022
+# MOOC2022
+
+These are the excercises I completed for the [MOOC2022 course}(https://java-programming.mooc.fi/) to learn Java. It covers the basics such as variables, datatypes, loops, functions, object-oriented programming... 
